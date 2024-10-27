@@ -22,19 +22,19 @@
             "id": 4,
             "name": "Lemon Drizzle Cake",
             "description": "A tangy lemon cake with a zesty glaze.",
-            "image": "https://images.pexels.com/photos/723972/pexels-photo-723972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            "image": "https://i.pinimg.com/originals/ab/a5/c5/aba5c57b9a5464d8fe474cef022a5390.jpg"
         },
         {
             "id": 5,
             "name": "Strawberry Shortcake",
             "description": "A delightful cake layered with fresh strawberries and whipped cream.",
-            "image": "https://images.pexels.com/photos/4605588/pexels-photo-4605588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            "image": "https://sugarapron.com/wp-content/uploads/2017/05/strawberry-short-b1a.jpg"
         },
         {
             "id": 6,
-            "name": "Carrot Cake",
-            "description": "A moist carrot cake topped with cream cheese frosting.",
-            "image": "https://images.pexels.com/photos/1622578/pexels-photo-1622578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            "name": "Black Forest Cake",
+            "description": "A moist chocolate cake topped with cream icing.",
+            "image": "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_800,h_1200/https://www.savingdessert.com/wp-content/uploads/2019/08/Black-Forest-Cake-Recipe-2-800x1200.jpg"
         }
     ]
 }
